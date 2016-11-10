@@ -22,3 +22,6 @@
 ## 常用模板类
 1. [登录模板](https://github.com/dcloudio/mui/tree/master/examples/login)
 2. [酒店预定](https://github.com/dcloudio/casecode/tree/master/hotel)
+
+
+test test
